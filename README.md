@@ -33,7 +33,6 @@ Estacao-Meteorologica/
 │       └── Estacao_meteorologica.ino
 ├── backend/
 ├── frontend/
-├── deployment/
 ├── docker-compose.yml
 └── README.md
 ```
