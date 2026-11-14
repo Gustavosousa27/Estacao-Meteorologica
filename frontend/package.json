@@ -1,0 +1,6 @@
+{
+  "name": "estacao-meteorologica-inteligente", "private": true, "version": "1.0.0", "type": "module",
+  "scripts": {"dev": "vite --host 0.0.0.0", "build": "vite build"},
+  "dependencies": {"react": "19.0.0", "react-dom": "19.0.0", "recharts": "2.15.3", "lucide-react": "0.468.0"},
+  "devDependencies": {"vite": "7.1.12", "@vitejs/plugin-react": "4.7.0"}
+}
